@@ -71,8 +71,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ```
-
----
-
-Let me know if you want it tailored to show *more operations* or *a modern UI*, or if you want to generate a version with a **GIF screen recording**.
-```
